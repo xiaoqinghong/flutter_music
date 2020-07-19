@@ -58,7 +58,7 @@ class _SceneListPageState
               height: double.infinity,
             ),
             Opacity(
-              opacity: 0.8,
+              opacity: 0.6,
               child: Container(
                 width: double.infinity,
                 height: double.infinity,
